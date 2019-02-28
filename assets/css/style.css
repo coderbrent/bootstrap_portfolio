@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(231, 231, 231);
+}
+
+h1 {
+    color: #17c9c9;
+}
+
+p {
+    color: #777;
+}
+
+p.foot {
+    color: white;
+}
+
+.bg-dark {
+    background-color: #17c9c9!important;
+}
+
+.footer {
+    background-color: rgb(77, 77, 77);
+    text-align: center;
+    color: white;
+    position: fixed;
+    bottom: 0;
+}
+
+.teal {
+    background-color: rgb(23, 201, 201);
+}
+
+.white {
+    background-color: white;
+}
+
+.contact-links {
+    background-color: rgb(23, 201, 201);
+    color: whitesmoke;
+    text-align: center;
+    border-top: solid 10px rgb(18, 161, 161);
+}
